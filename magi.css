@@ -1,0 +1,13 @@
+body {
+    font-size: 95%;
+    background-color: floralwhite;
+}
+h1{
+    color:red;
+}
+th{
+    background-color:antiquewhite;
+}
+td{
+    background-color:floralwhite;
+}
