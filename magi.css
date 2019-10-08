@@ -11,3 +11,22 @@ th{
 td{
     background-color:floralwhite;
 }
+#container {
+    width 900px;
+    margin: 20px auto 10px auto;
+}
+
+#left {
+    border-radius: 7px;
+    padding: 15px;
+    width: 260px;
+    float: left;
+}
+
+#right {
+    border-radius: 7px;
+    padding: 15px;
+    width: 560px;
+    float: right;
+}
+
