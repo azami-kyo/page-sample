@@ -11,6 +11,13 @@ th{
 td{
     background-color:floralwhite;
 }
+
+#header{
+    background:rgb(25%,25%,25%);
+    border-bottom:3px solid rgb(100%,60%,0%);
+    color:rgb(100%,100%,100%);
+    padding:15px 0;
+}
 #container{
     width 900px;
     margin: 20px auto 10px auto;
